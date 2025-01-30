@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages: Java, Python, SQL, Swift, Typescript, C#
+Frameworks and Tools: Xcode, Visual Studio, Azure Services, Git, Jira, Confluence, React, Docker, Dbeaver
